@@ -9,6 +9,7 @@ http://lambdajam.com/
 ## Talks
 
 > Talks with a `*` suffix are the talks attended.
+>
 > Talks with a `%` suffix are one's I'm planning to attend.
 
 [Full Schedule](http://www.lambdajam.com/program.html)

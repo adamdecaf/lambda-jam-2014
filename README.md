@@ -20,7 +20,7 @@ __Day 1__
  - Rich Hickey Keynote [TBA] [*]
 
 1030:
- - Reactive Design: A Critique of Current Techniques (Dean Wampler)
+ - Reactive Design: A Critique of Current Techniques (Dean Wampler) [*]
  - Homotopy Type Theory: What's the Big Idea (Gershom Bazerman) [%]
  - Elixir and the Internet of Things (Doug Rohrer)
 
@@ -35,7 +35,7 @@ __Day 1__
  - Functional reactive Twitter bots (Omar Rizwan) [%]
 
 1330:
- - Let's make a programming language! [JAM] -- (Runar Bjarnason)*
+ - Let's make a programming language! [JAM] -- (Runar Bjarnason) [*]
 
 __Day 2__
 

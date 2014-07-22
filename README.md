@@ -37,6 +37,9 @@ __Day 1__
 1330:
  - Let's make a programming language! [JAM] -- (Runar Bjarnason) [*]
 
+1615:
+ - Live-Coding the World (Andrew Sorensen) [*]
+
 __Day 2__
 
 0900:

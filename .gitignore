@@ -1,0 +1,13 @@
+/project/boot/
+target/
+lib_managed/
+src_managed/
+/project/plugins/project/build.properties
+/logs/
+/docs/_build/
+/tmp/*
+*.log
+*#
+*.#*
+.ensime
+.ensime_lucene

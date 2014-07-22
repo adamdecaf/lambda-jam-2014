@@ -26,7 +26,7 @@ __Day 1__
 
 1105:
  - Augmenting Dynamic Typing With Static-Analysis (Reid Draper)
- - Fun with (Fun with Recursion): the Inductive Type Zoo! (Katherine Ye) [%] [*]
+ - One Strange Type (Katherine Ye) [%] [*]
  - The F# Computation Expression Zoo (Tomas Petricek)
 
 1140:

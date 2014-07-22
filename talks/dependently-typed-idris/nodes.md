@@ -37,3 +37,4 @@
 * iQuery
 * idris2048
 * idris-crypto
+* Idris tutorial

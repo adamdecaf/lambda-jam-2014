@@ -26,11 +26,11 @@ __Day 1__
 
 1105:
  - Augmenting Dynamic Typing With Static-Analysis (Reid Draper)
- - Fun with (Fun with Recursion): the Inductive Type Zoo! (Katherine Ye) [%]
+ - Fun with (Fun with Recursion): the Inductive Type Zoo! (Katherine Ye) [%] [*]
  - The F# Computation Expression Zoo (Tomas Petricek)
 
 1140:
- - Learn Dependently-Typed Programming with Idris (Brian McKenna)
+ - Learn Dependently-Typed Programming with Idris (Brian McKenna) [*]
  - Contracts in Clojure with Schema (Ryan Senior)
  - Functional reactive Twitter bots (Omar Rizwan) [%]
 

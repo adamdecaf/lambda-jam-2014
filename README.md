@@ -51,7 +51,7 @@ __Day 2__
  - Playing Landin's Game - Better programs by reducing explicit sequencing (Eric Smith)
 
 1105:
- - Scalaz: the history, the motivation, the battles, the future (Tony Morris)
+ - Scalaz: the history, the motivation, the battles, the future (Tony Morris) [*]
  - From Object-Oriented to Functional programming - Venturing into Enterprise Erlang at Rackspace (Carlos Marin)
  - Clortex: Real Machine Intelligence Based on Neuroscience (Fergal Byrne) [%]
 

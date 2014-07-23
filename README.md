@@ -43,10 +43,10 @@ __Day 1__
 __Day 2__
 
 0900:
- - Erik Meijer Keynote [TBA]*
+ - Erik Meijer Keynote [*]
 
 1030:
- - Fast Purely Functional Cache-Oblivious Maps (Edward Kmett) [%]
+ - Fast Purely Functional Cache-Oblivious Maps (Edward Kmett) [%] [*]
  - Functional Programming and Distributed Computing (Martin Logan)
  - Playing Landin's Game - Better programs by reducing explicit sequencing (Eric Smith)
 

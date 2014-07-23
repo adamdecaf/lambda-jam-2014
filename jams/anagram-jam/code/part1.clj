@@ -10,7 +10,6 @@
   "/Users/adam/src/conferences/lambda-jam-2014/jams/anagram-jam/code/anagram-jam/4000words.txt")
 
 (use 'clojure.java.io)
-
 (defn read-and-process-file [f]
   (with-open [reader (reader known-words)]
     (doseq [line (line-seq reader)]
@@ -32,7 +31,6 @@
 (defn find-anagrams [incoming]
   (read-and-process-file (fn [dict] (print-when-anagrams incoming dict))))
 
-(defn main []
-  (find-anagrams "taco"))
-
-(main)
+;; (defn main []
+;;   (find-anagrams "taco"))
+;; (main)

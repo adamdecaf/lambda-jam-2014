@@ -61,4 +61,4 @@ __Day 2__
  - Property-Based Testing for Better Code (Jessica Kerr) [*]
 
 0130:
- - JAM [TBA]*
+ - Anagram Jam (Alex Miller) [*]

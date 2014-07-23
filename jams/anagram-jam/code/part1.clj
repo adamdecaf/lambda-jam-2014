@@ -29,8 +29,11 @@
     (println dict-word)))
 
 (defn find-anagrams [incoming]
+  (println (str "finding anagrams for " incoming))
   (read-and-process-file (fn [dict] (print-when-anagrams incoming dict))))
 
 ;; (defn main []
-;;   (find-anagrams "taco"))
+;;   (find-anagrams "taco")
+;;   (find-anagrams "meat"))
+
 ;; (main)

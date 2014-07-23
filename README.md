@@ -58,7 +58,7 @@ __Day 2__
 1140:
  - Tackling mutable state with data flow graphs (Curt Nichols)
  - Functional Operations: Using functional techniques to automate infrastructure (Susan Potter) [%]
- - Property-Based Testing for Better Code (Jessica Kerr)
+ - Property-Based Testing for Better Code (Jessica Kerr) [*]
 
 0130:
  - JAM [TBA]*
